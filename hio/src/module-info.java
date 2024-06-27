@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sango
+ *
+ */
+module hio {
+}
